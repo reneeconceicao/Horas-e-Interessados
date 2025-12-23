@@ -19,7 +19,6 @@ struct manicurecalendarApp: App {
     
     @StateObject private var themeManager = ThemeManager()
     
-    
     let modelContext = WordContainer().persistentContainer.viewContext
     
     @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
