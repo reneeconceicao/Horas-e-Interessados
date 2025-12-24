@@ -482,7 +482,20 @@
       }
     },
     "Hey, \n\nHours & interested people is a fast, simple and secure app that I use to manage my hours and interested people. \n\nGet it for free at:\n\nhttps://apps.apple.com/app/id6756936803 for iOS" : {
-
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hola,\n\nHoras y personas interesadas es una app rápida, sencilla y segura que uso para gestionar mis horas y las personas interesadas.\n\nDescárgala gratis en:\n\nhttps://apps.apple.com/app/id6756936803 para iOS"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olá,\n\nHoras e Interessados é um aplicativo rápido, simples e seguro que uso para marcar minhas horas e pessoas interessadas.\n\nBaixe grátis em:\n\nhttps://apps.apple.com/app/id6756936803 para iOS"
+          }
+        }
+      }
     },
     "Hours" : {
       "localizations" : {
@@ -809,13 +822,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abrir en Maps"
+            "value" : "Abrir en Mapas"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abrir no Maps"
+            "value" : "Abrir no Mapas"
           }
         }
       }
