@@ -9,20 +9,8 @@
 /* Begin PBXBuildFile section */
 		B702E8962DCBC88A00574749 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = B702E8952DCBC88A00574749 /* Localizable.xcstrings */; };
 		B702E9122DCC313200574749 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = B702E9112DCC313200574749 /* InfoPlist.xcstrings */; };
-		B70455842DD5212200020789 /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = B70455832DD5212200020789 /* GoogleMobileAds */; };
 		B70E13422DC02766005A8328 /* SwiftUIIntrospect in Frameworks */ = {isa = PBXBuildFile; productRef = B70E13412DC02766005A8328 /* SwiftUIIntrospect */; };
 		B7149DAB2E4BC32F003173A1 /* Launch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7149DAA2E4BC32F003173A1 /* Launch.storyboard */; };
-		B7505DB62ECA52C1003451BA /* FirebaseAuthCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = B7505DB52ECA52C1003451BA /* FirebaseAuthCombine-Community */; };
-		B7505DB82ECA52C1003451BA /* FirebaseCore in Frameworks */ = {isa = PBXBuildFile; productRef = B7505DB72ECA52C1003451BA /* FirebaseCore */; };
-		B7505DBB2ECA53D9003451BA /* GoogleSignIn in Frameworks */ = {isa = PBXBuildFile; productRef = B7505DBA2ECA53D9003451BA /* GoogleSignIn */; };
-		B7505DBD2ECA53D9003451BA /* GoogleSignInSwift in Frameworks */ = {isa = PBXBuildFile; productRef = B7505DBC2ECA53D9003451BA /* GoogleSignInSwift */; };
-		B79B81F92E4D07C90058B342 /* CropViewController in Frameworks */ = {isa = PBXBuildFile; productRef = B79B81F82E4D07C90058B342 /* CropViewController */; };
-		B79B81FB2E4D07C90058B342 /* TOCropViewController in Frameworks */ = {isa = PBXBuildFile; productRef = B79B81FA2E4D07C90058B342 /* TOCropViewController */; };
-		B7CBFB322EC6BA10003E3CE3 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = B7CBFB312EC6BA10003E3CE3 /* FirebaseAnalytics */; };
-		B7CBFB342EC6BA10003E3CE3 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = B7CBFB332EC6BA10003E3CE3 /* FirebaseAuth */; };
-		B7CBFB362EC6BA10003E3CE3 /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = B7CBFB352EC6BA10003E3CE3 /* FirebaseCrashlytics */; };
-		B7CBFB382EC6BA10003E3CE3 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = B7CBFB372EC6BA10003E3CE3 /* FirebaseFirestore */; };
-		B7CBFB3A2EC6BA10003E3CE3 /* FirebaseFunctions in Frameworks */ = {isa = PBXBuildFile; productRef = B7CBFB392EC6BA10003E3CE3 /* FirebaseFunctions */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,7 +34,7 @@
 		B702E8952DCBC88A00574749 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		B702E9112DCC313200574749 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		B7149DAA2E4BC32F003173A1 /* Launch.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Launch.storyboard; sourceTree = "<group>"; };
-		B7298A4B2D9DC9C300DB9897 /* timepeoples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = timepeoples.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B7298A4B2D9DC9C300DB9897 /* Hours & interested people.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hours & interested people.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7298A582D9DC9C500DB9897 /* timepeoplesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = timepeoplesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7298A622D9DC9C500DB9897 /* timepeoplesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = timepeoplesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -87,19 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B70455842DD5212200020789 /* GoogleMobileAds in Frameworks */,
-				B7CBFB342EC6BA10003E3CE3 /* FirebaseAuth in Frameworks */,
-				B7505DB82ECA52C1003451BA /* FirebaseCore in Frameworks */,
-				B79B81FB2E4D07C90058B342 /* TOCropViewController in Frameworks */,
-				B7CBFB3A2EC6BA10003E3CE3 /* FirebaseFunctions in Frameworks */,
-				B7505DBD2ECA53D9003451BA /* GoogleSignInSwift in Frameworks */,
-				B7505DBB2ECA53D9003451BA /* GoogleSignIn in Frameworks */,
-				B7CBFB362EC6BA10003E3CE3 /* FirebaseCrashlytics in Frameworks */,
-				B79B81F92E4D07C90058B342 /* CropViewController in Frameworks */,
-				B7CBFB382EC6BA10003E3CE3 /* FirebaseFirestore in Frameworks */,
-				B7CBFB322EC6BA10003E3CE3 /* FirebaseAnalytics in Frameworks */,
 				B70E13422DC02766005A8328 /* SwiftUIIntrospect in Frameworks */,
-				B7505DB62ECA52C1003451BA /* FirebaseAuthCombine-Community in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,7 +120,7 @@
 		B7298A4C2D9DC9C300DB9897 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B7298A4B2D9DC9C300DB9897 /* timepeoples.app */,
+				B7298A4B2D9DC9C300DB9897 /* Hours & interested people.app */,
 				B7298A582D9DC9C500DB9897 /* timepeoplesTests.xctest */,
 				B7298A622D9DC9C500DB9897 /* timepeoplesUITests.xctest */,
 			);
@@ -172,21 +148,9 @@
 			name = timepeoples;
 			packageProductDependencies = (
 				B70E13412DC02766005A8328 /* SwiftUIIntrospect */,
-				B70455832DD5212200020789 /* GoogleMobileAds */,
-				B79B81F82E4D07C90058B342 /* CropViewController */,
-				B79B81FA2E4D07C90058B342 /* TOCropViewController */,
-				B7CBFB312EC6BA10003E3CE3 /* FirebaseAnalytics */,
-				B7CBFB332EC6BA10003E3CE3 /* FirebaseAuth */,
-				B7CBFB352EC6BA10003E3CE3 /* FirebaseCrashlytics */,
-				B7CBFB372EC6BA10003E3CE3 /* FirebaseFirestore */,
-				B7CBFB392EC6BA10003E3CE3 /* FirebaseFunctions */,
-				B7505DB52ECA52C1003451BA /* FirebaseAuthCombine-Community */,
-				B7505DB72ECA52C1003451BA /* FirebaseCore */,
-				B7505DBA2ECA53D9003451BA /* GoogleSignIn */,
-				B7505DBC2ECA53D9003451BA /* GoogleSignInSwift */,
 			);
 			productName = manicurecalendar;
-			productReference = B7298A4B2D9DC9C300DB9897 /* timepeoples.app */;
+			productReference = B7298A4B2D9DC9C300DB9897 /* Hours & interested people.app */;
 			productType = "com.apple.product-type.application";
 		};
 		B7298A572D9DC9C500DB9897 /* timepeoplesTests */ = {
@@ -266,15 +230,12 @@
 				Base,
 				"pt-BR",
 				"es-419",
+				sv,
 			);
 			mainGroup = B7298A422D9DC9C300DB9897;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
 				B70E133F2DC02543005A8328 /* XCRemoteSwiftPackageReference "SwiftUI-Introspect" */,
-				B704557E2DD51BF600020789 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */,
-				B79B81F72E4D07C90058B342 /* XCRemoteSwiftPackageReference "TOCropViewController" */,
-				B7CBFB302EC6BA10003E3CE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
-				B7505DB92ECA53D9003451BA /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = B7298A4C2D9DC9C300DB9897 /* Products */;
@@ -491,7 +452,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 13;
 				DEVELOPMENT_TEAM = 2U2QM93456;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -500,7 +461,6 @@
 				INFOPLIST_KEY_NSContactsUsageDescription = YES;
 				INFOPLIST_KEY_NSLocationUsageDescription = "We need your location to open the map";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need your location to open the map";
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "This identifier will be used to deliver personalized ads to you.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -514,7 +474,7 @@
 				MARKETING_VERSION = 1.0;
 				NEW_SETTING = "";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.firebaseapp.time-people";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Hours & interested people";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -534,7 +494,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 13;
 				DEVELOPMENT_TEAM = 2U2QM93456;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -543,7 +503,6 @@
 				INFOPLIST_KEY_NSContactsUsageDescription = YES;
 				INFOPLIST_KEY_NSLocationUsageDescription = "We need your location to open the map";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need your location to open the map";
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "This identifier will be used to deliver personalized ads to you.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -557,7 +516,7 @@
 				MARKETING_VERSION = 1.0;
 				NEW_SETTING = "";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.firebaseapp.time-people";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Hours & interested people";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -681,14 +640,6 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		B704557E2DD51BF600020789 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 12.4.0;
-			};
-		};
 		B70E133F2DC02543005A8328 /* XCRemoteSwiftPackageReference "SwiftUI-Introspect" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/siteline/SwiftUI-Introspect";
@@ -697,96 +648,13 @@
 				minimumVersion = 1.3.0;
 			};
 		};
-		B7505DB92ECA53D9003451BA /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/google/GoogleSignIn-iOS";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 9.0.0;
-			};
-		};
-		B79B81F72E4D07C90058B342 /* XCRemoteSwiftPackageReference "TOCropViewController" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/TimOliver/TOCropViewController";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 2.7.4;
-			};
-		};
-		B7CBFB302EC6BA10003E3CE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 12.6.0;
-			};
-		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		B70455832DD5212200020789 /* GoogleMobileAds */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = GoogleMobileAds;
-		};
 		B70E13412DC02766005A8328 /* SwiftUIIntrospect */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = B70E133F2DC02543005A8328 /* XCRemoteSwiftPackageReference "SwiftUI-Introspect" */;
 			productName = SwiftUIIntrospect;
-		};
-		B7505DB52ECA52C1003451BA /* FirebaseAuthCombine-Community */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B7CBFB302EC6BA10003E3CE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = "FirebaseAuthCombine-Community";
-		};
-		B7505DB72ECA52C1003451BA /* FirebaseCore */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B7CBFB302EC6BA10003E3CE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseCore;
-		};
-		B7505DBA2ECA53D9003451BA /* GoogleSignIn */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B7505DB92ECA53D9003451BA /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */;
-			productName = GoogleSignIn;
-		};
-		B7505DBC2ECA53D9003451BA /* GoogleSignInSwift */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B7505DB92ECA53D9003451BA /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */;
-			productName = GoogleSignInSwift;
-		};
-		B79B81F82E4D07C90058B342 /* CropViewController */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B79B81F72E4D07C90058B342 /* XCRemoteSwiftPackageReference "TOCropViewController" */;
-			productName = CropViewController;
-		};
-		B79B81FA2E4D07C90058B342 /* TOCropViewController */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B79B81F72E4D07C90058B342 /* XCRemoteSwiftPackageReference "TOCropViewController" */;
-			productName = TOCropViewController;
-		};
-		B7CBFB312EC6BA10003E3CE3 /* FirebaseAnalytics */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B7CBFB302EC6BA10003E3CE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAnalytics;
-		};
-		B7CBFB332EC6BA10003E3CE3 /* FirebaseAuth */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B7CBFB302EC6BA10003E3CE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAuth;
-		};
-		B7CBFB352EC6BA10003E3CE3 /* FirebaseCrashlytics */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B7CBFB302EC6BA10003E3CE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseCrashlytics;
-		};
-		B7CBFB372EC6BA10003E3CE3 /* FirebaseFirestore */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B7CBFB302EC6BA10003E3CE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseFirestore;
-		};
-		B7CBFB392EC6BA10003E3CE3 /* FirebaseFunctions */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B7CBFB302EC6BA10003E3CE3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseFunctions;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

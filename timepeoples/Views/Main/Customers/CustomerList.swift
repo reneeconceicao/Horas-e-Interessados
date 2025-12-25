@@ -63,7 +63,7 @@ struct CustomerList: View {
     var body: some View {
         HStack {
             
-            SearchBar(text: $search, placeholder: String( localized: "Search peoples"))
+            SearchBar(text: $search, placeholder: String( localized: "Search people"))
                 .padding([.horizontal], 8)
             
             

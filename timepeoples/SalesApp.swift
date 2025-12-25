@@ -8,8 +8,6 @@
 import SwiftUI
 import SwiftData
 import StoreKit
-import GoogleMobileAds
-import UserMessagingPlatform
 
 
 @main

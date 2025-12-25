@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Horas e Interessados"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timmar & intresserade personer"
+          }
         }
       }
     },
@@ -43,6 +49,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Horas e Interessados"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timmar & intresserade personer"
           }
         }
       }
@@ -68,6 +80,12 @@
             "state" : "translated",
             "value" : "SIM"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JA"
+          }
         }
       }
     },
@@ -91,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precisamos da localização para abrir o mapa"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vi behöver din plats för att öppna kartan"
           }
         }
       }
@@ -116,28 +140,11 @@
             "state" : "translated",
             "value" : "Precisamos da localização para abrir o mapa"
           }
-        }
-      }
-    },
-    "NSUserTrackingUsageDescription" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This identifier will be used to deliver personalized ads to you."
-          }
         },
-        "es-419" : {
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Este identificador se utilizará para enviarle anuncios personalizados."
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Este identificador será usado para lhe enviar anúncios personalizados."
+            "value" : "Vi behöver din plats för att öppna kartan"
           }
         }
       }

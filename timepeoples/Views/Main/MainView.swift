@@ -8,7 +8,6 @@
 import SwiftUI
 import SwiftData
 import StoreKit
-import GoogleMobileAds
 import UIKit
 
 
@@ -47,8 +46,6 @@ struct MainView: View {
     @State private var clients: [MyClient] = []
     
     @State private var showBackupToast = false
-    
-    @State private var showSaleSavedToast = false
     
     @State private var showEmptyListToast = false
     
@@ -106,9 +103,7 @@ struct MainView: View {
             //ContentView()
             
             NewSaleView( onSaleSaved : {
-                withAnimation {
-                    showSaleSavedToast = true
-                }
+                
             })
             .onDisappear {
                 withAnimation {
@@ -131,7 +126,6 @@ struct MainView: View {
                 updateWord: word,
                 onSaleSaved : {
                     fetchWords()
-                    showSaleSavedToast = true
                 })
             .onDisappear {
                 fetchWords()
@@ -356,12 +350,7 @@ struct MainView: View {
                 duration: 3.5,
                 message: String(localized: "Backup restored successfully")
             )
-            .toast(
-                isPresented: $showSaleSavedToast,
-                paddingBottom: 120,
-                duration: 2,
-                message: String(localized: "Sale saved successfully")
-            )
+            
             
             .sheet(isPresented: $shareApp) {
                 let text = String(localized: "Hey, \n\nHours & interested people is a fast, simple and secure app that I use to manage my hours and interested people. \n\nGet it for free at:\n\nhttps://apps.apple.com/app/id6756936803 for iOS")

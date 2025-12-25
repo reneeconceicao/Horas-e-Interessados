@@ -14,6 +14,11 @@ final class LocationManager: NSObject, ObservableObject, CLLocationManagerDelega
         manager.desiredAccuracy = kCLLocationAccuracyBest
         checkAuthorization()
     }
+    
+    func updateAuthorization() {
+        let status = manager.authorizationStatus
+        authorizationStatus = status
+    }
 
     private func checkAuthorization() {
         let status = manager.authorizationStatus

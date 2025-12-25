@@ -15,7 +15,8 @@
             "value" : ""
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "Add Hours" : {
       "localizations" : {
@@ -29,6 +30,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Adicionar Horas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till timmar"
           }
         }
       }
@@ -46,6 +53,12 @@
             "state" : "translated",
             "value" : "Adicionar Interessados"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till intresserade"
+          }
         }
       }
     },
@@ -61,6 +74,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aplicativo"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Applikation"
           }
         }
       }
@@ -78,6 +97,12 @@
             "state" : "translated",
             "value" : "Backup restaurado com sucesso"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Säkerhetskopian har återställts"
+          }
         }
       }
     },
@@ -93,6 +118,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Azul"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blå"
           }
         }
       }
@@ -110,6 +141,12 @@
             "state" : "translated",
             "value" : "Marrom"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brun"
+          }
         }
       }
     },
@@ -125,6 +162,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Botão"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Knapp"
           }
         }
       }
@@ -142,6 +185,12 @@
             "state" : "translated",
             "value" : "Ligar…"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ring…"
+          }
         }
       }
     },
@@ -157,6 +206,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avbryt"
           }
         }
       }
@@ -174,6 +229,12 @@
             "state" : "translated",
             "value" : "Alterar cor do aplicativo"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ändra appens färg"
+          }
         }
       }
     },
@@ -189,6 +250,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escolha um dia"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj en dag"
           }
         }
       }
@@ -206,6 +273,12 @@
             "state" : "translated",
             "value" : "Escolha um mês"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj en månad"
+          }
         }
       }
     },
@@ -221,6 +294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escolha um ano"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj ett år"
           }
         }
       }
@@ -238,6 +317,12 @@
             "state" : "translated",
             "value" : "Escolha um horário"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj tid"
+          }
         }
       }
     },
@@ -253,6 +338,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escolha sua cor favorita"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj din favoritfärg"
           }
         }
       }
@@ -270,6 +361,12 @@
             "state" : "translated",
             "value" : "Confirmar"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekräfta"
+          }
         }
       }
     },
@@ -285,6 +382,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Padrão"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard"
           }
         }
       }
@@ -302,6 +405,12 @@
             "state" : "translated",
             "value" : "Horário padrão para novos lembretes"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standardtid för nya påminnelser"
+          }
         }
       }
     },
@@ -317,6 +426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Padrões"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standardvärden"
           }
         }
       }
@@ -334,6 +449,12 @@
             "state" : "translated",
             "value" : "Apagar"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radera"
+          }
         }
       }
     },
@@ -349,6 +470,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Detalhes"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detaljer"
           }
         }
       }
@@ -366,6 +493,12 @@
             "state" : "translated",
             "value" : "Gostou do aplicativo? Compartilhe com seus amigos e ajude o app a ficar ainda melhor!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gillade du appen? Dela den med dina vänner och hjälp appen att bli ännu bättre!"
+          }
         }
       }
     },
@@ -381,6 +514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deseja realmente apagar?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vill du verkligen ta bort detta?"
           }
         }
       }
@@ -398,6 +537,12 @@
             "state" : "translated",
             "value" : "Fechar"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klar"
+          }
         }
       }
     },
@@ -413,6 +558,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alterar dados"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redigera data"
           }
         }
       }
@@ -430,6 +581,12 @@
             "state" : "translated",
             "value" : "Erro ao apagar"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fel vid borttagning"
+          }
         }
       }
     },
@@ -445,6 +602,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erro: Não foi possível abrir a página de avaliação do app. Por favor, visite a App Store para nos avaliar."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fel: Det gick inte att öppna appens recensionssida. Besök App Store för att betygsätta oss."
           }
         }
       }
@@ -462,6 +625,12 @@
             "state" : "translated",
             "value" : "Erro: Não foi possível restaurar os dados do arquivo selecionado"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fel: Det gick inte att återställa den valda säkerhetskopian"
+          }
         }
       }
     },
@@ -477,6 +646,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verde"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grön"
           }
         }
       }
@@ -494,6 +669,12 @@
             "state" : "translated",
             "value" : "Olá,\n\nHoras e Interessados é um aplicativo rápido, simples e seguro que uso para marcar minhas horas e pessoas interessadas.\n\nBaixe grátis em:\n\nhttps://apps.apple.com/app/id6756936803 para iOS"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hej, \n\nTimmar och intresserade personer är en snabb, enkel och säker app som jag använder för att hantera mina timmar och intresserade personer. \n\nHämta den gratis på:\n\nhttps://apps.apple.com/app/id6756936803 för iOS"
+          }
         }
       }
     },
@@ -509,6 +690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Horas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timmar"
           }
         }
       }
@@ -526,6 +713,12 @@
             "state" : "translated",
             "value" : "Horas e interessados"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timmar och intresserade"
+          }
         }
       }
     },
@@ -541,6 +734,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Horas do mês"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timmar per månad"
           }
         }
       }
@@ -558,6 +757,12 @@
             "state" : "translated",
             "value" : "Horas do ano"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timmar per år"
+          }
         }
       }
     },
@@ -573,6 +778,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Horas: %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timmar: %@"
           }
         }
       }
@@ -590,6 +801,12 @@
             "state" : "translated",
             "value" : "Interessados"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intresserade"
+          }
         }
       }
     },
@@ -605,6 +822,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gerenciar assinatura"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hantera prenumeration"
           }
         }
       }
@@ -622,6 +845,12 @@
             "state" : "translated",
             "value" : "Minutos"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minuter"
+          }
         }
       }
     },
@@ -637,6 +866,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mês"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Månad"
           }
         }
       }
@@ -654,6 +889,12 @@
             "state" : "translated",
             "value" : "Mensal"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Månadsvis"
+          }
         }
       }
     },
@@ -669,6 +910,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nome"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namn"
           }
         }
       }
@@ -686,6 +933,12 @@
             "state" : "translated",
             "value" : "Nome: %@"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namn: %@"
+          }
         }
       }
     },
@@ -701,6 +954,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nenhum registro de horas encontrado"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga timposter hittades"
           }
         }
       }
@@ -718,6 +977,12 @@
             "state" : "translated",
             "value" : "Nenhum interessado encontrado"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga intresserade hittades"
+          }
         }
       }
     },
@@ -733,6 +998,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nenhuma venda pendente encontrada para este cliente"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga väntande försäljningar hittades för denna kund"
           }
         }
       }
@@ -750,6 +1021,12 @@
             "state" : "translated",
             "value" : "Anotações sobre esta pessoa (opcional)"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anteckningar om denna person (valfritt)"
+          }
         }
       }
     },
@@ -765,6 +1042,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anotações: %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anteckningar: %@"
           }
         }
       }
@@ -782,6 +1065,12 @@
             "state" : "translated",
             "value" : "Número de estudos"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antal studier"
+          }
         }
       }
     },
@@ -794,6 +1083,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -814,6 +1109,12 @@
             "state" : "translated",
             "value" : "Abrir"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öppna"
+          }
         }
       }
     },
@@ -829,6 +1130,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir no Mapas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öppna i Kartor"
           }
         }
       }
@@ -846,6 +1153,12 @@
             "state" : "translated",
             "value" : "Abrir Configurações"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öppna inställningar"
+          }
         }
       }
     },
@@ -861,6 +1174,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Laranja"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange"
           }
         }
       }
@@ -878,6 +1197,12 @@
             "state" : "translated",
             "value" : "Telefone"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefon"
+          }
         }
       }
     },
@@ -893,6 +1218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Telefone não informado"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefon ej angiven"
           }
         }
       }
@@ -910,6 +1241,12 @@
             "state" : "translated",
             "value" : "Telefone: %@"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefon: %@"
+          }
         }
       }
     },
@@ -922,6 +1259,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rosa"
+          }
+        },
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rosa"
@@ -942,6 +1285,12 @@
             "state" : "translated",
             "value" : "Política de Privacidade"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integritetspolicy"
+          }
         }
       }
     },
@@ -957,6 +1306,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nos avalie"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betygsätt oss"
           }
         }
       }
@@ -974,6 +1329,12 @@
             "state" : "translated",
             "value" : "Vermelho"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Röd"
+          }
         }
       }
     },
@@ -989,6 +1350,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cadastro"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrera"
           }
         }
       }
@@ -1012,6 +1379,12 @@
             "state" : "translated",
             "value" : "Relatório\n\n%1$@ \n\n%2$@"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rapport\n\n%1$@\n\n%2$@"
+          }
         }
       }
     },
@@ -1027,6 +1400,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Relatórios"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rapporter"
           }
         }
       }
@@ -1044,21 +1423,11 @@
             "state" : "translated",
             "value" : "Data da venda: %@"
           }
-        }
-      }
-    },
-    "Sale saved successfully" : {
-      "localizations" : {
-        "es-419" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Venta guardada con éxito"
-          }
         },
-        "pt-BR" : {
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Venda salva com sucesso"
+            "value" : "Försäljningsdatum: %@"
           }
         }
       }
@@ -1076,6 +1445,12 @@
             "state" : "translated",
             "value" : "Controle de Vendas"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Försäljningshantering"
+          }
         }
       }
     },
@@ -1092,10 +1467,16 @@
             "state" : "translated",
             "value" : "Salvar"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spara"
+          }
         }
       }
     },
-    "Search peoples" : {
+    "Search people" : {
       "localizations" : {
         "es-419" : {
           "stringUnit" : {
@@ -1107,6 +1488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buscar pessoas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sök personer"
           }
         }
       }
@@ -1124,6 +1511,12 @@
             "state" : "translated",
             "value" : "Selecione uma opção"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj ett alternativ"
+          }
         }
       }
     },
@@ -1139,6 +1532,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selecione um período"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj en period"
           }
         }
       }
@@ -1156,6 +1555,12 @@
             "state" : "translated",
             "value" : "Selecione a data"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj datum"
+          }
         }
       }
     },
@@ -1171,6 +1576,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selecionar a localização"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj plats"
           }
         }
       }
@@ -1188,6 +1599,12 @@
             "state" : "translated",
             "value" : "Configurações"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inställningar"
+          }
         }
       }
     },
@@ -1203,6 +1620,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Compartilhar"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dela"
           }
         }
       }
@@ -1220,6 +1643,12 @@
             "state" : "translated",
             "value" : "Compartilhar aplicativo"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dela app"
+          }
         }
       }
     },
@@ -1235,6 +1664,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estudos"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Studier"
           }
         }
       }
@@ -1252,6 +1687,12 @@
             "state" : "translated",
             "value" : "Estudos: %@"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Studier: %@"
+          }
         }
       }
     },
@@ -1267,6 +1708,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Arraste"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svep"
           }
         }
       }
@@ -1284,6 +1731,12 @@
             "state" : "translated",
             "value" : "Serviço telefônico indisponível no momento. Verifique suas configurações."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefonsamtal är för närvarande inte tillgängliga. Kontrollera enhetens inställningar."
+          }
         }
       }
     },
@@ -1299,6 +1752,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Termos"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Villkor"
           }
         }
       }
@@ -1316,6 +1775,12 @@
             "state" : "translated",
             "value" : "Texto"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text"
+          }
         }
       }
     },
@@ -1331,6 +1796,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O anúncio está sendo carregado, tente novamente em instantes"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annonsen laddas, försök igen om en stund"
           }
         }
       }
@@ -1348,6 +1819,12 @@
             "state" : "translated",
             "value" : "Esta ação não pode ser desfeita."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denna åtgärd kan inte ångras."
+          }
         }
       }
     },
@@ -1363,6 +1840,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Total de horas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totala timmar"
           }
         }
       }
@@ -1380,6 +1863,12 @@
             "state" : "translated",
             "value" : "Total de estudos"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totalt antal studier"
+          }
         }
       }
     },
@@ -1395,6 +1884,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Total de estudos do mês"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totalt antal studier för månaden"
           }
         }
       }
@@ -1412,6 +1907,12 @@
             "state" : "translated",
             "value" : "Escreva o nome por favor"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ange namnet, tack"
+          }
         }
       }
     },
@@ -1427,6 +1928,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precisamos de permissão de localização para abrir o mapa"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vi behöver platsbehörighet för att öppna kartan"
           }
         }
       }
@@ -1444,6 +1951,12 @@
             "state" : "translated",
             "value" : "Ano"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "År"
+          }
         }
       }
     },
@@ -1459,6 +1972,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anual"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Årlig"
           }
         }
       }

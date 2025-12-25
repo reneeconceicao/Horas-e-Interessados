@@ -7,7 +7,6 @@
 
 import SwiftUI
 import CoreData
-import GoogleMobileAds
 import MapKit
 
 struct NewCustomerView: View {
@@ -34,6 +33,7 @@ struct NewCustomerView: View {
     @State private var showLocationPicker = false
     @State private var nameEmptyError = false
     @State private var showPermissionAlert = false
+    @State private var updateAuthorization = false
     @State private var selectedCoordinate: CLLocationCoordinate2D?
     @StateObject private var themeManager = ThemeManager()
     @State private var showMap = false
@@ -171,6 +171,9 @@ struct NewCustomerView: View {
             
             .onAppear {
                 
+                
+                locationManager.updateAuthorization()
+                
                 if let newClient = myCustomer {
                     client = newClient.wordName
                     phoneNumber = newClient.wordPhone
@@ -183,12 +186,13 @@ struct NewCustomerView: View {
                 
             }
             .alert("We need location permission to open the map", isPresented: $showPermissionAlert){
-                Button("Cancel") {
-                    
-                }
+                
                 Button("Open Settings") {
                     guard let url = URL(string: UIApplication.openSettingsURLString) else { return }
                     UIApplication.shared.open(url)
+                }
+                Button("Cancel", role: .cancel) {
+                    
                 }
             }
             .alert("Type name please", isPresented: $nameEmptyError){
